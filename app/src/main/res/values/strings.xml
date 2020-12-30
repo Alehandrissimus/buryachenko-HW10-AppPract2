@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">buryachenko-HW10-AppPract2</string>
+    <string name="second_task">Second Task</string>
+    <string name="first_task">First Task</string>
+    <string name="third_task">Third Task</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="simple_notification">Simple Notification</string>
+    <string name="notification_with_action">Notification with action</string>
+    <string name="notification_with_direct_reply">Notification with direct reply</string>
+    <string name="direct_reply_result_unchanged">Direct reply result: Unchanged</string>
+    <string name="notification_with_progressbar">Notification with progressbar</string>
+    <string name="open_activity_with_parameters">Open activity with parameters</string>
+    <string name="open_google_maps">Open Google Maps</string>
+    <string name="button_reciever">Button receiver</string>
+    <string name="insert_string">Insert String</string>
+</resources>
